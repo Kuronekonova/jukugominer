@@ -1,2 +1,2 @@
 # jukugominer
-A small Python console application that mines Jukugo (a kind of Japanese words) from a Japanese text file.
+A small Python console application that mines Jukugo (a type of Japanese words) from a text file containing Japanese text.
